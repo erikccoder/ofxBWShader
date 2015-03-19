@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAB9A783-4F3D-4322-84C3-5B0E4AF5DD41</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofxBWShaderExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>275F6438B2B410BA3B755425D502ACA55CB4C9CA</key>
+		<string>https://github.com/erikccoder/ofxBWShader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ofxBWShaderExample/ofxBWShaderExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>275F6438B2B410BA3B755425D502ACA55CB4C9CA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/erikccoder/ofxBWShader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>275F6438B2B410BA3B755425D502ACA55CB4C9CA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>275F6438B2B410BA3B755425D502ACA55CB4C9CA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxBWShader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
